@@ -38,6 +38,7 @@ To get started with Sniper Calls Bot, follow these steps:
 ## Usage
 
 1. Run the bot:
+   ```sh
     python app.py
 
     or
@@ -45,6 +46,7 @@ To get started with Sniper Calls Bot, follow these steps:
     ```sh
     python main.py
     ```
+   
  notice Connect your wallet before start config 
 ## Contributing
 
